@@ -66,3 +66,5 @@ yarn test:e2e
 ```sh
 yarn lint
 ```
+# vite-awesome-setup
+vite setup with latest libraries
